@@ -112,7 +112,7 @@ p{
 #box1 .profilepic, #box2  .profilepic{
     border-color: rgba(255, 255, 255, 0.6);
 }
-#box3 .profilepic, #box  .profilepic{
+#box3 .profilepic, #box5 .profilepic{
     border-color: transparent;
 }
 #box4 .profilepic{
